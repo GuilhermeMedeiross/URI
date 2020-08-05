@@ -1,4 +1,4 @@
-begin
+loop do
     numbers = gets.to_s
     numbers = numbers.split(' ').map(&:to_i)
     x = numbers.min
@@ -14,4 +14,4 @@ begin
         print j.to_s + " "
     end
     puts "Sum=" + sum.to_s
-end while x > 0 and y > 0
+end
