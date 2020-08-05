@@ -1,0 +1,11 @@
+import math
+valor1 = str(input())
+valor2 = str(input())
+valor1 = valor1.split(' ')
+valor2 = valor2.split(' ')
+x1 = float(valor1[0])
+y1 = float(valor1[1])
+x2 = float(valor2[0])
+y2 = float(valor2[1])
+result = math.sqrt((x2-x1)**2 + (y2-y1)**2)
+print('{:.4f}' .format(result))
