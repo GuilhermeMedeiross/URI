@@ -6,11 +6,11 @@ Repositório de problemas resolvidos na plataforma do URI da seção Beginner
 
 ## Progress
 
-75/289 => 26% da seção
-75/2106 => 3.56% do total
+80/289 => 27.68% da seção (+1.68%)
+80/2106 => 3.80% do total (+0.24%)
 
 ### Statistics
 
-Posição no Mundo: 28,548
-Posição na Universidade: 185
-191.71 pontos
+Posição no Mundo: 20,204 (+8,344)
+Posição na Universidade: 96 (+89)
+246.62 pontos (+54,91)
