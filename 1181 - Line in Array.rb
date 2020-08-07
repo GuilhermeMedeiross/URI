@@ -1,6 +1,6 @@
 objective = gets.to_i
 operation = gets.to_s.strip
-matrix = Array.new(3) {Array.new(3)}
+matrix = Array.new(12) {Array.new(12)}
 total = []
 
 for i in 0..11
